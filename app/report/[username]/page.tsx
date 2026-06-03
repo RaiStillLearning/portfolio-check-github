@@ -67,7 +67,27 @@ export default async function ReportPage({ params }: PageProps) {
             </span>
             <span className="font-semibold text-foreground">PortfolioCheck</span>
           </div>
-          <p>Dibuat untuk student & junior dev Indonesia 🇮🇩</p>
+          <p>
+            Dibuat oleh{" "}
+            <a
+              href="https://github.com/RaiStillLearning"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-foreground hover:underline transition-all"
+            >
+              RaiStillLearning
+            </a>{" "}
+            (
+            <a
+              href="https://rakhaarkana.my.id"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-foreground hover:underline transition-all"
+            >
+              rakhaarkana.my.id
+            </a>
+            ) untuk student & junior dev Indonesia 🇮🇩
+          </p>
           <p>© 2026 PortfolioCheck. All rights reserved.</p>
         </div>
       </footer>
