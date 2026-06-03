@@ -7,7 +7,7 @@ import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 
 const stats = [
-  { value: "2.4K+", label: "Portfolio Dianalisis" },
+  { value: "100+", label: "Portfolio Dianalisis" },
   { value: "5", label: "Kategori Scoring" },
   { value: "<10s", label: "Waktu Analisis" },
 ];
