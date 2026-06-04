@@ -190,6 +190,6 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 
 ## 👤 Author
 
-Dibuat dengan ☕ oleh **[Rai](https://github.com/RaiStillLearning)**
+Dibuat dengan ☕ oleh **[Rakha](https://github.com/RaiStillLearning)**
 
 > _"Portofolio yang baik bukan soal banyaknya repo, tapi soal cerita yang kamu bangun."_
