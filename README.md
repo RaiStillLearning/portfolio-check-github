@@ -154,35 +154,6 @@ npm start
 
 ---
 
-## 📁 Struktur Project
-
-```
-portfolio-check-github/
-├── app/
-│   ├── page.tsx              # Halaman utama (input username)
-│   ├── result/
-│   │   └── [username]/
-│   │       └── page.tsx      # Halaman hasil analisis
-│   └── layout.tsx
-├── components/
-│   ├── ScoreCard.tsx         # Kartu skor per kategori
-│   ├── ScoreBreakdown.tsx    # Detail breakdown penilaian
-│   └── GithubInput.tsx       # Form input username
-├── lib/
-│   ├── github.ts             # GitHub API wrapper
-│   └── scoring/
-│       ├── quality.ts        # Logika skor Repository Quality
-│       ├── activity.ts       # Logika skor Activity
-│       ├── documentation.ts  # Logika skor Documentation
-│       ├── deployment.ts     # Logika skor Deployment
-│       └── diversity.ts      # Logika skor Project Diversity
-├── types/
-│   └── github.ts             # TypeScript types
-└── public/
-```
-
----
-
 ## 🔌 GitHub API Usage
 
 Aplikasi ini menggunakan beberapa endpoint GitHub API:
